@@ -1,7 +1,7 @@
 # Site settings
-title: Dahye Kang's portfolio
-email: 20tja@naver.com
-url: https://heksamin.github.io/
+title: 강다혜의 포트폴리오
+email: 20tja@domain.com
+url: http://heksamin.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
@@ -69,5 +69,3 @@ defaults:
       type: "posts"
     values:
       permalink: ""
-
-theme: jekyll-theme-cayman
