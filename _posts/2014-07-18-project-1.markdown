@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2021-11-00
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: April 2021
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: UX품질 평가 전문가 과정 수료. 전자 정부 웹사이트를 대상으로 웹 호환성, 웹 접근성, 웹 편의성을 진단한 결과 보고서를 작성하였습니다.
 ---

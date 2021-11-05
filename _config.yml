@@ -25,7 +25,7 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: 18bc9c #ffcf60
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
@@ -39,9 +39,9 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: 네이버 블로그
-    url: http://twitter.com/jekyllrb
-  - title: 노션
+  - title: blog
+    url: https://blog.naver.com/20tja
+  - title: notion
     url: https://www.notion.so/lueance
   - title: github
     url: http://github.com/heksamin
